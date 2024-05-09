@@ -15,7 +15,7 @@ function htmlForm() {
    const userId = userIDref.current.value;
    const postTitle  = postTitleref.current.value;
    const postBody = postBodyref.current.value;
-   const postTags = postTagsref.current.value.split(/(\s+)/);
+   const postTags = postTagsref.current.value.split(" ");
    const postReaction = postReactionref.current.value;
    addPost(userId, postTitle, postBody, postTags , postReaction);
   //  console.log(userId)
