@@ -1,6 +1,6 @@
-# up Link - Social Media Web App
+# Up-Link - Social Media Web App
 
-Welcome to up Link, a social media web app built using React concepts. This app allows users to add posts, view posts from other users, delete posts, and includes plans for adding more features in the future similar to other social media platforms.
+Welcome to Up-Link repository, a social media web app built using React concepts. This app allows users to add posts, view posts from other users, delete posts, and includes plans for adding more features in the future similar to other social media platforms.
 
 ## Features
 - **Add Posts:** Users can create and share posts with text, images, or videos.
