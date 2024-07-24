@@ -39,6 +39,3 @@ Welcome to Up-Link repository, a social media web app built using React concepts
 
 ## Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
